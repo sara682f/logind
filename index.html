@@ -20,13 +20,22 @@
   <input type="text" placeholder="username"/>
   <input type="password" placeholder="password"/>
   <button>Login</button>
-  <p class="message"Not registered? <a href="#"Register
+  <p class="message"Not registered? <a href="#">Register</a>
 </p>
 
 
   </div>
   </div>
 
+<script src='http://code.jquery.com/jquery-3.2.1.min.js'
+</script>
+
+<script>
+  $('.message a').click(function(){
+  $('form').animate({height:"toggle",opacity:"toggle"},"slow");
+  });
+
+</script>
 
   </body>
 </html>
