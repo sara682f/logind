@@ -1,8 +1,7 @@
-  <body>
-  <header id="main-header">
-  <h1>Login and register</h1>
+  body{
   background-color: grey;
-</body>
+  }
+
 .login-page{
   width:360px;
   padding:10% 0 0;
@@ -11,15 +10,11 @@
 .form{
   position:center;
   z-index:1;
-  background:#333333;
+  background:#darkgrey;
   max-width:360px;
   margin:0 auto 100px;
   padding:45px;
   text-align:center;
 }
-style
-  #main-header{
-    background-color:#333333;
-    color:white;
-    padding:10px;
+
   }
