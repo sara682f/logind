@@ -1,4 +1,8 @@
 body{
   background-image:url(baggrund.jpg);
+  height:100vh;
+  background-size:cover;
+  background-position: center;
   
+
 }
