@@ -8,7 +8,7 @@
   margin:auto;
 }
 .form{
-  position:center;
+  position:relative;
   z-index:1;
   background:#ffffff;
   max-width:360px;
