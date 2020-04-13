@@ -1,8 +1,6 @@
-body{
-  background-image: href="https://lh3.googleusercontent.com/p/AF1QipOZvWe6TAHa3-CJPbyNyzRxnZ4m-vrCGF2jamUH=w600-k"
+  body{
+  background="BILLEDE.gif" style="background-repeat: no-repeat; background-attachment: fixed;">
   height:100vh;
   background-size:cover;
   background-position: center;
-
-
 }
